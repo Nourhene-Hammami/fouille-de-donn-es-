@@ -1,1 +1,1 @@
-# Covid_19_chest_x_ray
+# ce projet permet de analyse et prétraitement des données & Détection des zones de maladies sur des images(segmentation) & Entraînement et évaluation des modèles de classification pour prédire les maladies .  
